@@ -18,10 +18,10 @@ PWEditor includes the following editors:
 - [ ] **elements editor** — game element editor
 - [ ] **gs editor** — Game Server Configuration Editor
 - [ ] **gshop editor** — game store editor
-- [ ] **image editor** — image editor
-- [ ] **interface editor** — interface editor
+- [ ] **image editor**
+- [ ] **interface editor**
 - [ ] **iweb editor** — iWeb editor (web interfaces)
-- [ ] **map editor** — map editor
+- [ ] **map editor**
 - [ ] **models editor** — model editor
 - [ ] **npcgen editor** — NPC generation editor
 - [ ] **pck** — working with PCK archives
